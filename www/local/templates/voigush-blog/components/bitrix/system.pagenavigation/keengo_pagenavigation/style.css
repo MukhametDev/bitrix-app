@@ -1,0 +1,21 @@
+.paginationPrevNext{
+    padding:5px;
+    background: white;
+    border-radius: 5px;
+    border:1px solid #ccc;
+}
+.pagination{
+    padding-left: 20px;
+}
+
+.page{
+    background: white;
+    padding:10px;
+    border-radius: 5px;
+    border:1px solid #ccc;
+}
+
+.page.active{
+    background: #adadad;
+    color: white;
+}

@@ -1,0 +1,36 @@
+
+
+/* Start:/local/templates/voigush-blog/components/bitrix/system.pagenavigation/keengo_pagenavigation/style.css?1727788872191*/
+.paginationPrevNext{
+    padding:5px;
+    background: #fffdbc;
+}
+.pagination{
+    padding-left: 20px;
+}
+
+.page{
+    background: white;
+    padding:10px;
+    border-radius: 10px;
+}
+/* End */
+
+
+/* Start:/local/templates/voigush-blog/components/bitrix/news/news/bitrix/news.list/.default/style.css?1727701839150*/
+div.news-list
+{
+	word-wrap: break-word;
+}
+div.news-list img.preview_picture
+{
+	float:left;
+	margin:0 4px 6px 0;
+}
+.news-date-time {
+	color:#486DAA;
+}
+
+/* End */
+/* /local/templates/voigush-blog/components/bitrix/system.pagenavigation/keengo_pagenavigation/style.css?1727788872191 */
+/* /local/templates/voigush-blog/components/bitrix/news/news/bitrix/news.list/.default/style.css?1727701839150 */

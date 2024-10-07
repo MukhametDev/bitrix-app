@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/local/templates/voigush/js/responsiveslides.min.js" => "14314326783397",]; ?>

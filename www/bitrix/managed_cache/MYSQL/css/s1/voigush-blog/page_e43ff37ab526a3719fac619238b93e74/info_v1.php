@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/local/templates/voigush-blog/components/bitrix/system.pagenavigation/keengo_pagenavigation/style.css" => "172778348940",]; ?>

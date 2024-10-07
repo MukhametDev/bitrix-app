@@ -1,0 +1,21 @@
+.idea
+.vscode
+.fleet
+logs
+.env
+# Исключить временные файлы
+/bitrix/cache/
+/bitrix/backup/
+/bitrix/tmp/
+/bitrix/managed_cache/
+/upload/
+/bitrix/
+
+# Логи и конфиги окружения
+/bitrix/.settings.php
+/bitrix/php_interface/dbconn.php
+/local/php_interface/dbconn.php
+
+# Конфигурационные файлы операционной системы
+.DS_Store
+Thumbs.db

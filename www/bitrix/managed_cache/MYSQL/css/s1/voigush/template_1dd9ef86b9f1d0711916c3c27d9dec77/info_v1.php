@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/local/templates/voigush/css/bootstrap.css" => "1411977212121243","/local/templates/voigush/css/style.css" => "143237698043293","/local/templates/voigush/components/bitrix/menu/main_menu/style.css" => "1727434049490",]; ?>
