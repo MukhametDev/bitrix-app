@@ -18,7 +18,7 @@ $strReturn .= '<div class="breadcrumbs-box">"
 ';
 
 $itemSize = count($arResult);
-debug($arResult);
+
 for($index = 0; $index < $itemSize; $index++)
 {
 	$title = htmlspecialcharsex($arResult[$index]["TITLE"]);
